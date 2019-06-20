@@ -1,5 +1,6 @@
 ## Complex-YOLO implementation in Keras
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c54bff32c6b44b9e8aae433ab2018494)](https://app.codacy.com/app/dtczhl/dtc-Complex-YOLO-Keras?utm_source=github.com&utm_medium=referral&utm_content=dtczhl/dtc-Complex-YOLO-Keras&utm_campaign=Badge_Grade_Dashboard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 &nbsp;
 
